@@ -6,7 +6,7 @@
 
 Demo is avaliable at [Youtube.](https://youtu.be/WOYQ2A6ZiRU) 
 
-##Core Techniques 
+## Core Techniques 
 
 * **Speech Recognition**
 * **Image Recognition & Localization**
