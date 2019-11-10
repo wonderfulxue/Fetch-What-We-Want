@@ -2,11 +2,11 @@
 
 ## Introduction
 
-**F Ⅲ W **(Fetch *What We Want*) is a feeding robot aimed to help those who cannot eat or drink independently. Feeding Robot can be controlled by natural language instructions. After receiving message from a user, **F Ⅲ W ** can extract keywords from user's instructions, locate what the user want on the table, and feed it into patients' mouth.
+**F Ⅲ W**(**F**etch **W**hat **W**e **W**ant) is a feeding robot aimed to help those who cannot eat or drink independently. Feeding Robot can be controlled by natural language instructions. After receiving message from a user, **F Ⅲ W** can extract keywords from user's instructions, locate what the user want on the table, and feed it into patients' mouth.
 
 Demo is avaliable at [Youtube.](https://youtu.be/WOYQ2A6ZiRU) 
 
-## Core Techniques 
+## Core Technique
 
 * **Speech Recognition**
 * **Image Recognition & Localization**
@@ -15,7 +15,7 @@ Demo is avaliable at [Youtube.](https://youtu.be/WOYQ2A6ZiRU)
 
 ## Hardware Setup
 
-* SainSmart DIY 6-Axis Servos Control Palletizing Robot Arm
+* SainSmart DIY 6-Axis Servos Control Pelletizing Robot Arm
 * Arduino 101 Board
 * Logitech c270 web camera
 * MacBook Pro 
@@ -24,13 +24,13 @@ Demo is avaliable at [Youtube.](https://youtu.be/WOYQ2A6ZiRU)
 
 * Arduino - Serial communication logic & object grabbing algorithm
 * Yolo-v3 - Main CV model for object detection & Localization
-* Webcam - Integrated CV model with webcam videp stream with OpenCV
-* Voice_recgonizer - Framework for processing user's instruction
+* Webcam - Integrated CV model with webcam video stream with OpenCV
+* Voice_recognizer - Framework for processing user's instruction
 * Supporting Files - Product Analytics & Presentation Slide
 
 ## Author
 
-Zhijun Xue, School of Electronic Information and Communications, Huazhong University of Science & Technology(*HUST*)
+Zhijun Xue, School of Electronic Information and Communications, Huazhong University of Science & Technology(**HUST**)
 
 ## License
 
